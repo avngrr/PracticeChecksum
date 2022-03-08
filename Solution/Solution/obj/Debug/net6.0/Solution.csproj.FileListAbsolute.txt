@@ -1,0 +1,16 @@
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\bin\Debug\net6.0\Solution.exe
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\bin\Debug\net6.0\checksum - input.txt
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\bin\Debug\net6.0\Solution.deps.json
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\bin\Debug\net6.0\Solution.runtimeconfig.json
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\bin\Debug\net6.0\Solution.dll
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\bin\Debug\net6.0\Solution.pdb
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\obj\Debug\net6.0\Solution.csproj.AssemblyReference.cache
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\obj\Debug\net6.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\obj\Debug\net6.0\Solution.AssemblyInfoInputs.cache
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\obj\Debug\net6.0\Solution.AssemblyInfo.cs
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\obj\Debug\net6.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\obj\Debug\net6.0\Solution.dll
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\obj\Debug\net6.0\refint\Solution.dll
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\obj\Debug\net6.0\Solution.pdb
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\obj\Debug\net6.0\Solution.genruntimeconfig.cache
+C:\Users\Enzo\Documents\Projects\PracticeChecksum\Solution\Solution\obj\Debug\net6.0\ref\Solution.dll
